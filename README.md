@@ -2,7 +2,7 @@
 
 ![ghibli_crt](https://user-images.githubusercontent.com/62621041/199393715-bccdce07-65d8-4d9d-b912-01867f0cee61.png)
 
-Hi, I'm GEAR. I do game development using [Godot Engine]( https://godotengine.org ) and pixel art with [Aseprite]( https://www.aseprite.org ). I also do 3D stylized modelling in [Blender]( htttps://blender.org ). Mostly doing Game Jams and open for collaborations! Currently working on an Untitled 2D Side-scroller game.
+Hi, I'm GEAR. I do game development using [Godot Engine]( https://godotengine.org ) and pixel art with [Aseprite]( https://www.aseprite.org ). I also do 3D stylized modelling in [Blender]( htttps://blender.org ). Mostly doing Game Jams and open for collaborations! Currently working on an Untitled 3D game.
 
 <br>
 <br>
